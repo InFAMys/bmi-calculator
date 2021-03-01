@@ -1,0 +1,30 @@
+.card {
+  width: 450px;
+  margin-top: 100px;
+}
+
+.card-body table {
+  font-size: 17px;
+}
+
+.card-body table tr td {
+  padding: 10px;
+}
+
+.btn {
+  margin-top: 7px;
+  width: 75%;
+}
+
+.card-footer b {
+  font-size: 15px;
+}
+
+.alert {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.card-footer h4 {
+  margin-top: 25px;
+}
